@@ -1,7 +1,6 @@
-Common Line 1
+
 Common Line 2
-Fahmi's Code below:
-Amar name Fahmi. This is a test.
+Fahmi's Code belo
 This is second test. 
 line change korsi
 
