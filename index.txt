@@ -8,7 +8,7 @@ This is second test.
 line change korsi
 
 Tori's Code below:
-
+Testing merge conflict 
 
 Common Line 4
 Common Line 5
