@@ -13,3 +13,4 @@ Testing merge conflict
 Common Line 4
 Common Line 5
 Common Line 6
+COmmon line 7
