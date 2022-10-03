@@ -6,7 +6,7 @@ Fahmi's Code below:
 Amar name Fahmi. This is a test.
 
 Tori's Code below:
-
+Testing merge conflict 
 
 Common Line 4
 Common Line 5
